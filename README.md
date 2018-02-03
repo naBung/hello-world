@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi I'm bung.
+
+I'm studing about gihub.
+I'm interested in this section.
